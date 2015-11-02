@@ -186,9 +186,10 @@
 <jdoc:include type="modules" name="copy" style="block" />
 </div>
 </div>
-</div>
-</div>
 <?php  endif; ?>
+</div>
+</div>
+
 <!-- copy -->
 <!-- menu slide -->
 <?php  if($this->countModules('panelnav')): ?>
